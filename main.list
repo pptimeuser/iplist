@@ -27,3 +27,5 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/coinbl_ips.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+https://iplists.firehol.org/files/bi_any_2_30d.ipset
+https://iplists.firehol.org/files/urlvir.ipset
