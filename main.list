@@ -27,7 +27,3 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/coinbl_ips.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
-https://hosts.ubuntu101.co.za/ips.list
-https://hosts.ubuntu101.co.za/domains.list
-https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
-https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list
